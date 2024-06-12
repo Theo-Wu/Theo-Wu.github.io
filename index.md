@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Manchester. I am currently working with Dr. Zahra Montazeri.
+I am a Ph.D. student at [The University of Manchester](https://www.manchester.ac.uk/). I am currently working with Dr. [Zahra Montazeri](https://research.manchester.ac.uk/en/persons/zahra.montazeri). I received my M.Sc at [University College London (UCL)](https://www.ucl.ac.uk/) and completed my B.Sc. at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Graphics:** Inverse rendering, Appearance modelling
+- **Machine Learning:** Meta-learning, Generative model
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2024]** Our paper about differentiable rasterizer is accepted to EGSR 2024.
 
 {% include_relative _includes/publications.md %}
 
