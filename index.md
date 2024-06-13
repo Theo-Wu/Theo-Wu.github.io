@@ -15,6 +15,6 @@ I am a Ph.D. student at [The University of Manchester](https://www.manchester.ac
 
 - **[Jun. 2024]** Our paper about differentiable rasterizer is accepted to EGSR 2024.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
