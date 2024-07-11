@@ -2,10 +2,10 @@ main:
 
   - title: Learning to Rasterize Differentiably
     authors: <strong>Chenghao Wu</strong>, Hamila Mailee, Zahra Montazeri, Tobias Ritschel
-    conference_short: EGSR 2024
-    conference: Eurographics Symposium on Rendering
+    conference_short: EGSR
+    conference: Computer Graphics Forum (Eurographics Symposium on Rendering, 2024)
     pdf: 
     code: https://github.com/Theo-Wu/MetaRas
     bibtex: 
     image: ./assets/img/Teaser_1.jpg
-    notes: Computer Graphics Forum
+    notes: 
