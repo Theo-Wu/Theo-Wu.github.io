@@ -16,6 +16,6 @@
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://portal.manchester.ac.uk/uPortal/p/course-unit-info.ctf1/max/render.uP?pP_action=viewCUDetails&pP_location=/CourseUnitPublishing/CourseUnitDataFiles/COMP/040491COMP241122023-08-031V17.xml"><autocolor>COMP24112 Machine Learning</autocolor></a></li>
-  <li><a href="https://portal.manchester.ac.uk/uPortal/p/course-unit-info.ctf1/max/render.uP?pP_action=viewCUDetails&pP_location=/CourseUnitPublishing/CourseUnitDataFiles/COMP/001931COMP371112023-08-011V12.xml"><autocolor>COMP37111 Advanced Computer Graphics</autocolor></a></li>
+  <li><a href="https://portal.manchester.ac.uk/uPortal/p/course-unit-info.ctf1/max/render.uP?pP_action=viewCUDetails&pP_location=/CourseUnitPublishing/CourseUnitDataFiles/COMP/040491COMP241122023-08-031V17.xml"><autocolor>COMP24112 Machine Learning</autocolor></a> (2023~2025)</li>
+  <li><a href="https://portal.manchester.ac.uk/uPortal/p/course-unit-info.ctf1/max/render.uP?pP_action=viewCUDetails&pP_location=/CourseUnitPublishing/CourseUnitDataFiles/COMP/001931COMP371112023-08-011V12.xml"><autocolor>COMP37111 Advanced Computer Graphics</autocolor></a> (2023~2025)</li>
 </ul>
