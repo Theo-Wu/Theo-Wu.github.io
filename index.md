@@ -13,7 +13,9 @@ I am a Ph.D. student at [The University of Manchester](https://www.manchester.ac
 
 ## News
 
-- **[Jun. 2024]** Our paper about differentiable rasterizer is accepted to EGSR 2024.
+- **[July. 2025]** Our paper about woven cloth inverse rendering is accepted to PG 2025.
+
+- **[Jun. 2024]** Our paper about differentiable rasterization is accepted to EGSR 2024.
 
 - **[May. 2024]** I gave a presentation on the Computer Science Symposium of University of Manchester.
 
