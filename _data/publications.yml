@@ -1,4 +1,15 @@
 main:
+  - title: Automatic Reconstruction of Woven Cloth from a Single Close-up Image
+    authors: <strong>Chenghao Wu</strong>, Apoorv Khattar, Junqiu Zhu, Steve Pettifer, Lingqi Yan, Zahra Montazeri
+    conference_short: PG 2025
+    conference: Computer Graphics Forum (Pacific Graphics, 2025)
+    pdf: 
+    code: 
+    page: https://theo-wu.github.io/Inverse-Woven-Cloth/
+    video: 
+    bibtex: 
+    image: ./assets/img/Cloth.gif
+    notes: 
 
   - title: Learning to Rasterize Differentiably
     authors: <strong>Chenghao Wu</strong>, Hamila Mailee, Zahra Montazeri, Tobias Ritschel
@@ -10,16 +21,4 @@ main:
     video: https://www.youtube.com/watch?v=cxLnGoLy8xQ&ab_channel=EGSR2024
     bibtex: https://diglib.eg.org/items/b38de602-d27a-404a-b24d-b0f7c732cabe
     image: ./assets/img/Teaser_1.jpg
-    notes: 
-
-  - title: Automatic Reconstruction of Woven Cloth from a Single Close-up Image
-    authors: <strong>Chenghao Wu</strong>, Apoorv Khattar, Junqiu Zhu, Steve Pettifer, Lingqi Yan, Zahra Montazeri
-    conference_short: PG 2025
-    conference: Computer Graphics Forum (Pacific Graphics, 2025)
-    pdf: 
-    code: 
-    page: https://theo-wu.github.io/Inverse-Woven-Cloth/
-    video: 
-    bibtex: 
-    image: ./assets/img/Cloth.gif
     notes: 
