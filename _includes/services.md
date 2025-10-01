@@ -8,10 +8,14 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
+<h4 style="margin:0 10px 0;">Reviewer</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tg"><autocolor>IEEE Transactions on Visualization and Computer Graphics (TVCG)</autocolor></a></li>
+  <li><a href="https://www.computer.org/csdl/journal/tg"><autocolor>IEEE Transactions on Visualization and Computer Graphics (TVCG)</autocolor></a> (2025)</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Volunteer</h4>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://asia.siggraph.org/2025/"><autocolor>Siggraph Asia</autocolor></a> (2025)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
