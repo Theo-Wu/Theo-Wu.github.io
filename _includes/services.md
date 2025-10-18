@@ -11,6 +11,7 @@
 <h4 style="margin:0 10px 0;">Reviewer</h4>
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tg"><autocolor>IEEE Transactions on Visualization and Computer Graphics (TVCG)</autocolor></a> (2025)</li>
+  <li><a href="https://www.computer.org/csdl/journal/tg"><autocolor>Eurographics (EG)</autocolor></a> (2026)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Volunteer</h4>
