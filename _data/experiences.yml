@@ -1,0 +1,7 @@
+main:
+  - company: "Tencent Ltd."
+    # location: "Shenzhen China"
+    position: "Research Intern, LightSpeed Studios"
+    date: "Oct. 2025 - May. 2026"
+    # description: "Developed a Multi-Modal Material Generation with Diffusion Transformers, conditioned on image crops and/or text prompts."
+    image: "assets/img/Tencent_Logo.png"
