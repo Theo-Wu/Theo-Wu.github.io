@@ -1,6 +1,6 @@
 main:
   - title: Real-Time Neural Hair G-Buffer Anti-Aliasing
-    authors: <strong>Chenghao Wu</strong>, Yuefan Shen, Tao Huang, Kai Yan, Zahra Montazeri, Kui Wu
+    authors: <strong>Chenghao Wu</strong>, Yuefan Shen, Tao Huang, Kai Yan, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a>, <a href="https://kuiwuchn.github.io/">Kui Wu</a>
     conference_short: SIGGRAPH Asia 2026
     conference: SIGGRAPH Asia 2026 (Conference Track)
     pdf: 
@@ -12,7 +12,7 @@ main:
     notes: 
 
   - title: Automatic Reconstruction of Woven Cloth from a Single Close-up Image
-    authors: <strong>Chenghao Wu</strong>, Apoorv Khattar, Junqiu Zhu, Steve Pettifer, Lingqi Yan, Zahra Montazeri
+    authors: <strong>Chenghao Wu</strong>, Apoorv Khattar, Junqiu Zhu, Steve Pettifer, <a href="https://lingqiyan.github.io/">Lingqi Yan</a>, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a>
     conference_short: PG 2025
     conference: Computer Graphics Forum (Pacific Graphics, 2025)
     pdf: https://diglib.eg.org/items/ecdab480-1a4d-40d5-a5fc-e91e2ccd9b05
@@ -24,7 +24,7 @@ main:
     notes: 
 
   - title: Learning to Rasterize Differentiably
-    authors: <strong>Chenghao Wu</strong>, Hamila Mailee, Zahra Montazeri, Tobias Ritschel
+    authors: <strong>Chenghao Wu</strong>, Hamila Mailee, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a>, <a href="https://www.homepages.ucl.ac.uk/~ucactri/">Tobias Ritschel</a>
     conference_short: EGSR 2024
     conference: Computer Graphics Forum (Eurographics Symposium on Rendering, 2024)
     pdf: https://diglib.eg.org/items/b38de602-d27a-404a-b24d-b0f7c732cabe
