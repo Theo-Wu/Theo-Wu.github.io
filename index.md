@@ -8,14 +8,19 @@ I am a Ph.D. student at [The University of Manchester](https://www.manchester.ac
 
 ## Research Interests
 
-- **Computer Graphics:** Inverse rendering, Appearance reconstruction, Differentiable rendering, Neural rendering
-- **Machine Learning:** Meta-learning, Generative model
+<!-- - **Computer Graphics:** Inverse rendering, Appearance reconstruction, Differentiable rendering, Neural rendering -->
+
+**Inverse rendering, Differentiable rendering, Neural rendering, Real-time rendering**
 
 ## News
 
+- **[Jul. 2026]** Our paper about neural hair anti-aliasing is accepted to SIGGRAPH Asia 2026.
+
+- **[Dec. 2025]** I served as a Student Volunteer at SIGGRAPH Asia 2025.
+
 - **[Oct. 2025]** I started an internship at Tencent's LightSpeed Studios.
 
-- **[July. 2025]** Our paper about woven cloth inverse rendering is accepted to PG 2025.
+- **[Jul. 2025]** Our paper about woven cloth inverse rendering is accepted to PG 2025.
 
 - **[Jun. 2024]** Our paper about differentiable rasterization is accepted to EGSR 2024.
 
