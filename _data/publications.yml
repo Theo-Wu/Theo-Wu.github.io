@@ -1,14 +1,14 @@
 main:
   - title: Real-Time Neural Hair G-Buffer Anti-Aliasing
     authors: <strong>Chenghao Wu</strong>, Yuefan Shen, Tao Huang, Kai Yan, Zahra Montazeri, Kui Wu
-    conference_short: SIGGRAPH Asia 2026 (Conference Track)
+    conference_short: SIGGRAPH Asia 2026
     conference: SIGGRAPH Asia 2026 (Conference Track)
     pdf: 
     code: 
     page: https://theo-wu.github.io/NeuralHairGAA/
     video: 
     bibtex: 
-    image: ./assets/img/NeuralHairGAA.png
+    image: ./assets/img/NeuralHairGAA.jpg
     notes: 
 
   - title: Automatic Reconstruction of Woven Cloth from a Single Close-up Image
