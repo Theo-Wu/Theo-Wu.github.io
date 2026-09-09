@@ -1,5 +1,5 @@
 main:
-  - title: Real-Time Neural Hair G-Buffer Anti-Aliasing
+  - title: <strong>Real-Time Neural Hair G-Buffer Anti-Aliasing</strong>
     authors: <strong>Chenghao Wu</strong>, Yuefan Shen, Tao Huang, Kai Yan, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a>, <a href="https://kuiwuchn.github.io/">Kui Wu</a>
     conference_short: SIGGRAPH Asia 2026
     conference: SIGGRAPH Asia 2026 (Conference Track)
@@ -11,7 +11,7 @@ main:
     image: ./assets/img/NeuralHairGAA.jpg
     notes: 
 
-  - title: Automatic Reconstruction of Woven Cloth from a Single Close-up Image
+  - title: <strong>Automatic Reconstruction of Woven Cloth from a Single Close-up Image</strong>
     authors: <strong>Chenghao Wu</strong>, Apoorv Khattar, Junqiu Zhu, Steve Pettifer, <a href="https://lingqiyan.github.io/">Lingqi Yan</a>, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a>
     conference_short: PG 2025
     conference: Computer Graphics Forum (Pacific Graphics, 2025)
@@ -23,7 +23,7 @@ main:
     image: ./assets/img/Cloth.gif
     notes: 
 
-  - title: Learning to Rasterize Differentiably
+  - title: <strong>Learning to Rasterize Differentiably</strong>
     authors: <strong>Chenghao Wu</strong>, Hamila Mailee, <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a>, <a href="https://www.homepages.ucl.ac.uk/~ucactri/">Tobias Ritschel</a>
     conference_short: EGSR 2024
     conference: Computer Graphics Forum (Eurographics Symposium on Rendering, 2024)
