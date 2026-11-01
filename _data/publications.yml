@@ -4,7 +4,7 @@ main:
     conference_short: SIGGRAPH Asia 2026
     conference: SIGGRAPH Asia 2026 (Conference Track)
     pdf: 
-    code: 
+    code: https://github.com/Tencent/NeuralHairGAA
     page: https://theo-wu.github.io/NeuralHairGAA/
     video: 
     bibtex: 
